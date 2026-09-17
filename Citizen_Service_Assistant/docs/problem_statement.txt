@@ -1,0 +1,7 @@
+Project: AI Citizen Service Assistant
+
+Problem Statement:
+Citizens struggle to navigate government services.
+
+Solution Statement:
+AI explains procedures, documents and application processes.
